@@ -1,0 +1,102 @@
+GET /index.html HTTP/1.1
+/0:0:0:0:0:0:0:1
+03/23/2020 19:19:16
+200
+216
+
+GET /index.html HTTP/1.1
+From/0:0:0:0:0:0:0:1
+03/23/2020 19:22:41
+Status : 200
+216bytes
+
+GET /index.html HTTP/1.1
+From/0:0:0:0:0:0:0:1:43594
+03/23/2020 19:25:23
+Status : 200
+216bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/23/2020 19:29:02
+Status : 200
+216bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/23/2020 19:41:06
+Status : 200
+216bytes
+
+GET /udc.gif HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 16:40:18
+Status : 200
+4250 bytes
+
+GET / HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 16:40:31
+Status : 200
+216 bytes
+
+GET / HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 16:40:41
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 16:42:20
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 17:05:32
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 17:07:16
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 17:07:51
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 17:08:21
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 17:09:03
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 17:13:11
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 17:13:36
+Status : 200
+216 bytes
+
+GET /index.html HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 17:35:03
+Status : 200
+216 bytes
+

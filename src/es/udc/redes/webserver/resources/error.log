@@ -1,0 +1,29 @@
+GET /indexdzadza HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/23/2020 19:45:33
+404 : File Not Found.
+GET /favicon.ico HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 16:38:06
+404 : File Not Found.
+
+GET /udc.gif/ HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 16:40:49
+404 : File Not Found.
+
+GET /lol HTTP/1.1
+From0:0:0:0:0:0:0:1
+03/24/2020 16:40:56
+404 : File Not Found.
+
+null
+From0:0:0:0:0:0:0:1
+03/24/2020 16:50:10
+Server error : java.io.IOException: Stream closed
+
+null
+From0:0:0:0:0:0:0:1
+03/24/2020 16:51:07
+Server error : java.net.SocketException: Socket closed
+
